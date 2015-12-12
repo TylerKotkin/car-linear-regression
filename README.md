@@ -1,6 +1,6 @@
 #  <div align="center">Car Worth</div>
 
-The Signs of Regression notebook uses pandas, NumPy, matplotlib and scikit-learn to analyze data on the suggested retail price of used 2005 GM cars.
+The Car Worth notebook uses pandas, NumPy, matplotlib and scikit-learn to analyze data on the suggested retail price of used 2005 GM cars.
 
 ## <div align="center">Instructions</div>
 
